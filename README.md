@@ -1,1 +1,2 @@
-# linjiehong.github.io
+Linjiehong's Blog
+Personal Blog of Firefox2100
