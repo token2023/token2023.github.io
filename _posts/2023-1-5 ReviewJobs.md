@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "访客码"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2022-11-11 11:11:11 -0000
 categories: 
 - "jekyll update"
 tags: 
