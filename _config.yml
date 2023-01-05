@@ -450,9 +450,9 @@ gitalk:
   enable: true
   clientID: cc46a348e349e89b39f8
   clientSecret: 433397d59ba32cb8dc5e9357824b92d17cd37d63
-  repo: Firefox2100.github.io
-  owner: Firefox2100
-  admin: Firefox2100
+  repo: token2023.github.io
+  owner: token2023
+  admin: token2023
 
 # Baidu Share
 # Available value:
