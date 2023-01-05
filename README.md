@@ -1,3 +1,3 @@
-# Firefox2100's Blog
+# Linjiehong's Blog
 
-Personal Blog of Firefox2100
+Personal Blog of Linjiehong
