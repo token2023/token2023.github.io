@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Linjiehong's Blog
+title: Eleven's Blog
 subtitle:
 description: We dreamed about saving the world when we were young, but now look at it.
-author: Linjiehong
+author: Eleven
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -85,7 +85,7 @@ collections:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Linjiehong, Blog"
+keywords: "Eleven, Blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -222,10 +222,10 @@ social:
   GitHub: https://github.com/token2023
 #   Twitter: https://twitter.com/xx
 #   Telegram: https://t.me/xx
-#   Gmail: mailto:linjiehongxxx.gmail.com
+#   Gmail: mailto:xxx.gmail.com
 #   Facebook: xxx
-#   IRC: Firefox2100@irc.gitter.im
-#   XMPP: firefox2100@xmpp.jp
+#   IRC: 
+#   XMPP: 
 
 # Social Links Icons
 # Icon Mapping:
