@@ -2,7 +2,7 @@
 title: Story Begin
 date: 2023-1-6
 categories:
-- Kick off
+- 日常记录
 tags:
 - Kick off
 ---
