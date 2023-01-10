@@ -447,7 +447,7 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: true
+  enable: false
   clientID: 7c549f65f87d7f742868
   clientSecret: 509748e54c1c41c9d8a8b1baacfff2d771396813
   repo: token2023.github.io
