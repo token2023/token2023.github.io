@@ -453,6 +453,7 @@ gitalk:
   repo: token2023.github.io
   owner: token2023
   admin: token2023
+  distractionFreeMode: true
 
 # Baidu Share
 # Available value:
